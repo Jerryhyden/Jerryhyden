@@ -1,4 +1,4 @@
-# Jerry Hyden
+
 <h1 align="center">Hi 👋, I'm Jerry Hyden</h1>
 <h3 align="center">A passionate Developer and Data Enthusiast</h3>
 
